@@ -1,6 +1,6 @@
 # Replication code for the paper "Newswire: A Large-Scale Structured Database of a Century of Historical News" 
 
-Repo tree - 
+Repo structure - 
 ```
 ├── entity
 │   └── pipeline.py
@@ -21,3 +21,5 @@ All relevant functions in georeferncing/georef.py
 
 ## Topic Classification
 Code to train the models and example Hyperparameters are in topic_models/train_topics.py
+
+
